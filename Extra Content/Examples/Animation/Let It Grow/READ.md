@@ -13,7 +13,7 @@ To practice this, fill out the grow_leaves(...) function. We can grow our leaves
 
 (Hint: You may find the get_corner_coordinates(...) function handy! It stores a shape's top left and bottom right points in the form of (left_x, top_y, right_x, bottom_y).)
 
-# Let It Grow
+## Let It Grow
 ![Let It Grow](https://github.com/user-attachments/assets/b60aff7f-59f5-4886-a387-1ee7f9002191)
 
 Click [here](https://codeinplace.stanford.edu/cip4/share/8kMRQsUCZUhcyoyN4ZQA) to view animation.
