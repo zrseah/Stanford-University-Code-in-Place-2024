@@ -14,5 +14,5 @@ Week 5 & 6:
 - Lists
 - Dictionaries
 
-## Addtional Content
+## Extra Content
 - Animation
